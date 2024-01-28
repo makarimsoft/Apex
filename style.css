@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.apex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+    width: 100%;
+    
+}
+
+.img img{
+    width: 100%;
+    height: auto;
+}
+.img{
+    width: 150px;
+}
+.ff a {
+    padding: 5px 10px;
+}
+
+
